@@ -2,3 +2,4 @@
 Eagle library with breakout headers for papilio pro fpga board https://papilio.cc
 
 ![footprint](images/papilio-pro-pin-headers.png)
+![schematic](images/papilio-pro-pin-headers-device.png)
